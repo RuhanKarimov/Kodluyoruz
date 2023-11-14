@@ -43,7 +43,7 @@ public class KodluyoruzOdev1 {
         
         String kontrol = ortalama > 60 ? "Sinifi Gectiniz" : "Sinifta Kaldiniz";
         
-        System.out.println("Ortamaniz : " + ortalama);
+        System.out.println("Ortalamaniz : " + ortalama);
         System.out.print(kontrol);
         
     }
